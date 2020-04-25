@@ -15,6 +15,8 @@
 	margin-bottom: 20px !important;
 }
 
-.limpa {
-	overflow: hidden;
+.alinhamento {
+	display: flex;
+	align-items: center;
 }
+
