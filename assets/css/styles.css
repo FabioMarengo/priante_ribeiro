@@ -1,0 +1,20 @@
+.texto-customizado {
+	font-family: 'Pinyon Script', cursive;
+}
+
+.caroussel_imagem {
+	width: 100% !important;
+	height: auto !important;
+}
+
+.mt-n1 {
+	margin-top: -10px !important;
+}
+
+.mb-p1 {
+	margin-bottom: 20px !important;
+}
+
+.limpa {
+	overflow: hidden;
+}
